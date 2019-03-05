@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yuva Jay Ho</string>
+    <string name="name">Name</string>
+    <string name="constituency">Constituency</string>
+    <string name="email_id">Email Id</string>
+    <string name="area">Area</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="booth_no">Booth No.</string>
+    <string name="tdp_membership_no">TDP Membership No.</string>
+</resources>
